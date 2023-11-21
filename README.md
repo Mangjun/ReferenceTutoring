@@ -18,4 +18,4 @@
 | --- | --- | --- |
 | Stack | [Code](https://github.com/Mangjun/ReferenceTutoring/tree/main/%EC%BD%94%EB%93%9C/Stack) | 2023.11.06 |
 | ItemList | [Code](https://github.com/Mangjun/ReferenceTutoring/tree/main/%EC%BD%94%EB%93%9C/ItemList) | 2023.11.13 |
-| Kiosk | [Code](https://github.com/Mangjun/ReferenceTutoring/tree/main/%EC%BD%94%EB%93%9C/kiosk) |  |
+| Kiosk | [Code](https://github.com/Mangjun/ReferenceTutoring/tree/main/%EC%BD%94%EB%93%9C/kiosk) | 2023.11.20 |
